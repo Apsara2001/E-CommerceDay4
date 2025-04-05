@@ -40,7 +40,7 @@ A full-stack backend project built using **Spring Boot** that performs CRUD (Cre
 1. **Clone the Repository:**
 
    ```bash
-   git clone
+   git clone https://github.com/Apsara2001/E-CommerceDay4.git
 
 ##Screenshots
 
