@@ -43,4 +43,13 @@ A full-stack backend project built using **Spring Boot** that performs CRUD (Cre
    git clone https://github.com/Apsara2001/E-CommerceDay4.git
 
 ##Screenshots
-
+1.Dispaly all students
+![display](https://github.com/user-attachments/assets/33bc6382-1a30-4053-b5d7-411c5a4c6ebb)
+2.Display by id
+![showbyid](https://github.com/user-attachments/assets/8b77f91b-fae4-4dde-afaf-8d022b46ef1d)
+3.Add Student
+![add](https://github.com/user-attachments/assets/7ba5d3e7-2a38-454b-b217-42a70bb923f5)
+4.Update Student
+![update](https://github.com/user-attachments/assets/0b557ffd-55e2-4228-8d71-0318931894a0)
+5.Delete Student
+![delete](https://github.com/user-attachments/assets/9f0ac1d2-b148-43d4-9fc3-e9927a061a72)
